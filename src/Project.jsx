@@ -5,8 +5,6 @@ import ActionSection from "./components/ActionSection";
 import Footer from "./components/Footer";
 
 function Project() {
-
-
   return (
     <>
       <Nav />
